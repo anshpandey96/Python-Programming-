@@ -11,4 +11,3 @@ print("b =", b, "| type:", type(b))
 print("c =", c, "| type:", type(c))
 print("d =", d, "| type:", type(d))
 print("e =", e, "| type:", type(e))
-
