@@ -1,0 +1,1 @@
+print(name) # bcz string is imuteable 
