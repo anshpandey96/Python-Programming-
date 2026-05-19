@@ -1,5 +1,5 @@
 a = (1, 2, 45, 532, False, "Rohan", "shivam")
-
+print(a)
 print(type(a))
 
 # tupple can not be modified but list can be modified
