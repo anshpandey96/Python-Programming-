@@ -5,3 +5,5 @@ i = 0
 while(i < len(l)):   # ✅ l (the list), not 1 (the number)
     print(l[i])
     i += 1
+
+    
