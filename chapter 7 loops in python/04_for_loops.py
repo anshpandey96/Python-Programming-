@@ -12,3 +12,4 @@ for i in l:
 s = "Ansh"
 for i in t:
     print(i)
+
