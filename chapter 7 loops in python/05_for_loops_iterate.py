@@ -6,4 +6,3 @@ for item in l:
 else:
     print("done") # this is printed when the loop echausts!
 
-        
