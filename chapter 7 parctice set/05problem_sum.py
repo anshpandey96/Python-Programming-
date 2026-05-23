@@ -7,3 +7,4 @@ while ( i <= n ):
  
 print(sum)
   
+
