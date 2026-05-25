@@ -28,3 +28,4 @@ avg()  #Functino calling
 
 avg()
 print
+
