@@ -14,6 +14,8 @@
 # print(average)
 #
 
+# Fuctiono definition 
+
 def avg():
     a = int(input("Enter your first number: "))
     b = int(input("Enter your second number: "))
@@ -21,4 +23,8 @@ def avg():
     average = (a + b + c) / 3
     print(average)
 
+avg()  #Functino calling
+
+
 avg()
+print
