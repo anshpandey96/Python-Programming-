@@ -6,3 +6,5 @@ def pattern(n):
 
    
 pattern(3)
+
+
