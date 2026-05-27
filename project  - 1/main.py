@@ -25,4 +25,3 @@ elif (you == 1  and computer == -1) or \
 
 else:
     print("You lose! ")
-
