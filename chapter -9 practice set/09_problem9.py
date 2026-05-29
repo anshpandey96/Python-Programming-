@@ -9,3 +9,5 @@ if(content1 == content2 ):
 
 else:
     print("No these files are not idnetiacal")    
+
+
