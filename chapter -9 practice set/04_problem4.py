@@ -7,3 +7,6 @@ contentNew = content.replace(word, "######")
 
 with open("file.txt", "w") as f:
     f.write(contentNew)
+
+
+ 
