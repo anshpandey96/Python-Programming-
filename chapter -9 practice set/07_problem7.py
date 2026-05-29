@@ -8,4 +8,3 @@ with open("log.txt", "r", encoding="utf-8") as f:
             break
     else:
         print("No Python is not present")
-
