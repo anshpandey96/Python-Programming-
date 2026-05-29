@@ -8,3 +8,4 @@ def generateTable(n):
 
 for i in range(2,21):
     generateTable(i)
+
