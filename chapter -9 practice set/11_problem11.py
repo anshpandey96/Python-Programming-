@@ -3,3 +3,5 @@ with open("old.txt") as f:
 
 with open("rename_by_python.txt", "w") as f:
     f.write(content)
+
+    
