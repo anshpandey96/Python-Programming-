@@ -14,10 +14,9 @@ def game():
      print(f"Your score :{score}")
      if(score>hiscore):
     
-
-
          # write the hiscore to the file
 
       return score 
      
 game()
+
