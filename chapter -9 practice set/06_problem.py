@@ -6,3 +6,4 @@ with open("log.txt") as f:
 
     else:
         print("This is not present>>")
+
