@@ -3,3 +3,6 @@ with open("this.txt")as f:
 
 with open("this_copy.txt", "w") as f:
     f.write(content)    
+
+    
+ 
