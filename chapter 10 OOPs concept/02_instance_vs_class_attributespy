@@ -1,0 +1,12 @@
+class Employee:
+    language = "python"
+    salary = 100000
+
+
+Ansh = Employee()
+# Ansh.language = "java" #this is an instance attibuties
+print(Ansh.language, Ansh.salary)
+# Output: Ansh python 100000
+# We can also change the attributes of the object
+
+
