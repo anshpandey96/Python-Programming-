@@ -25,3 +25,4 @@ ansh.getInfo("ansh", 13000000, "Javascript") # this is an instance
 print(ansh.name,ansh.salary,ansh.language)
 
 #rohan = Employee()
+
