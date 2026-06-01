@@ -20,4 +20,3 @@ t.book("Rampur", "Mumbai")
 t.getStatus() 
 t.getFare("Rampur", "Mumbai")
 
-
