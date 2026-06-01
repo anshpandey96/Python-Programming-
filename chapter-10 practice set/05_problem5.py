@@ -19,4 +19,3 @@ t = Train(12399)
 t.book("Rampur", "Mumbai")
 t.getStatus() 
 t.getFare("Rampur", "Mumbai")
-
