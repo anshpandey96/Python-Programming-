@@ -19,3 +19,4 @@ print(o.a,o.b) # Shows an error becsue there is no b attribute in Employee class
 
 O = Manager()
 print(O.a,O.b,O.c) # Shows all attributes from the inheritance chain
+
